@@ -17,5 +17,5 @@ from it. With this PS, it can be achieved.
 
 Controllers can be accessed via I2C, each controller might have a different ID. Controllers may be chained
 with on-board jumpers, or accessed directly using direct ports.
-Controller software swill to be written...
+Controller software still to be written...
 
